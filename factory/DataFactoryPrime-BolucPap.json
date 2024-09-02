@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryPrime-BolucPap",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08570291-dfc2-476c-8e91-018ad03a6dde",
+		"tenantId": "de8d5634-7edf-4ce9-a220-b3a2f38c6405"
+	}
+}
